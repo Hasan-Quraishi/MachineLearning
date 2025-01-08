@@ -1,0 +1,14 @@
+Please note I acknowledge that I have thoroughly used these references as advised and have commented my codes so as to prove my understanding of the topics
+
+List of References:
+
+1. Activity 4.1,4.2,5.1,5.2
+2. Helper Functions python file
+3. For HardEm ALgorithm outside titorial
+https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html
+
+https://github.com/abcde799/HardEM
+
+4. Chatgpt for research,converting to latex and documentation purposes
+
+
