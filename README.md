@@ -1,1 +1,1 @@
-MachineLerning Lessons at University
+Machine Learning Lessons at University
